@@ -1,0 +1,125 @@
+Name:
+
+Data:
+
+Turma:
+
+                    Prova sobre capitais (prova 10)
+
+1. qual e a capital de Alagoas?
+ A.Manaus
+
+ B.Maceió
+
+ C.Brasília
+
+ D.Salvador
+
+2. qual e a capital de Amapá?
+ A.Maceió
+
+ B.Fortaleza
+
+ C.Macapá
+
+ D.Palmas
+
+3. qual e a capital de Minas Gerais?
+ A.Belo Horizonte
+
+ B.Palmas
+
+ C.Vitória
+
+ D.São Paulo
+
+4. qual e a capital de Rio de Janeiro?
+ A.Rio de Janeiro
+
+ B.Brasília
+
+ C.Maceió
+
+ D.Fortaleza
+
+5. qual e a capital de Rio Grande do Norte?
+ A.Manaus
+
+ B.Natal
+
+ C.Fortaleza
+
+ D.Brasília
+
+6. qual e a capital de Amazonas?
+ A.Natal
+
+ B.Manaus
+
+ C.Macapá
+
+ D.Brasília
+
+7. qual e a capital de Espírito Santo?
+ A.Vitória
+
+ B.Rio Branco
+
+ C.Brasília
+
+ D.Macapá
+
+8. qual e a capital de Tocantins?
+ A.Rio Branco
+
+ B.Maceió
+
+ C.Palmas
+
+ D.Fortaleza
+
+9. qual e a capital de Acre?
+ A.Salvador
+
+ B.Rio Branco
+
+ C.Brasília
+
+ D.Rio de Janeiro
+
+10. qual e a capital de Bahia?
+ A.Salvador
+
+ B.São Paulo
+
+ C.Rio de Janeiro
+
+ D.Rio Branco
+
+11. qual e a capital de São Paulo?
+ A.Belo Horizonte
+
+ B.Macapá
+
+ C.Maceió
+
+ D.São Paulo
+
+12. qual e a capital de Distrito Federal?
+ A.Manaus
+
+ B.Brasília
+
+ C.Fortaleza
+
+ D.Macapá
+
+13. qual e a capital de Ceará?
+ A.Rio de Janeiro
+
+ B.Natal
+
+ C.Fortaleza
+
+ D.Rio Branco
+

@@ -1,0 +1,125 @@
+Name:
+
+Data:
+
+Turma:
+
+                    Prova sobre capitais (prova 2)
+
+1. qual e a capital de São Paulo?
+ A.Belo Horizonte
+
+ B.Brasília
+
+ C.São Paulo
+
+ D.Maceió
+
+2. qual e a capital de Rio de Janeiro?
+ A.Vitória
+
+ B.São Paulo
+
+ C.Rio de Janeiro
+
+ D.Palmas
+
+3. qual e a capital de Distrito Federal?
+ A.Brasília
+
+ B.Salvador
+
+ C.Vitória
+
+ D.Manaus
+
+4. qual e a capital de Ceará?
+ A.Palmas
+
+ B.Rio de Janeiro
+
+ C.Fortaleza
+
+ D.Natal
+
+5. qual e a capital de Minas Gerais?
+ A.São Paulo
+
+ B.Rio de Janeiro
+
+ C.Vitória
+
+ D.Belo Horizonte
+
+6. qual e a capital de Espírito Santo?
+ A.Palmas
+
+ B.Manaus
+
+ C.Belo Horizonte
+
+ D.Vitória
+
+7. qual e a capital de Amazonas?
+ A.Rio de Janeiro
+
+ B.Manaus
+
+ C.Fortaleza
+
+ D.Maceió
+
+8. qual e a capital de Amapá?
+ A.Fortaleza
+
+ B.São Paulo
+
+ C.Macapá
+
+ D.Manaus
+
+9. qual e a capital de Rio Grande do Norte?
+ A.Natal
+
+ B.Rio Branco
+
+ C.São Paulo
+
+ D.Salvador
+
+10. qual e a capital de Acre?
+ A.Natal
+
+ B.Palmas
+
+ C.Fortaleza
+
+ D.Rio Branco
+
+11. qual e a capital de Alagoas?
+ A.Manaus
+
+ B.Maceió
+
+ C.Rio Branco
+
+ D.São Paulo
+
+12. qual e a capital de Tocantins?
+ A.Brasília
+
+ B.Belo Horizonte
+
+ C.Maceió
+
+ D.Palmas
+
+13. qual e a capital de Bahia?
+ A.Salvador
+
+ B.Fortaleza
+
+ C.Belo Horizonte
+
+ D.Natal
+

@@ -1,0 +1,125 @@
+Name:
+
+Data:
+
+Turma:
+
+                    Prova sobre capitais (prova 6)
+
+1. qual e a capital de Espírito Santo?
+ A.Vitória
+
+ B.Palmas
+
+ C.Manaus
+
+ D.Brasília
+
+2. qual e a capital de Bahia?
+ A.Rio Branco
+
+ B.São Paulo
+
+ C.Salvador
+
+ D.Maceió
+
+3. qual e a capital de Acre?
+ A.Natal
+
+ B.Belo Horizonte
+
+ C.Rio Branco
+
+ D.Salvador
+
+4. qual e a capital de Alagoas?
+ A.Maceió
+
+ B.Natal
+
+ C.Rio Branco
+
+ D.São Paulo
+
+5. qual e a capital de Tocantins?
+ A.Maceió
+
+ B.Palmas
+
+ C.Manaus
+
+ D.Rio Branco
+
+6. qual e a capital de Amapá?
+ A.Macapá
+
+ B.Belo Horizonte
+
+ C.Vitória
+
+ D.Natal
+
+7. qual e a capital de Rio Grande do Norte?
+ A.Fortaleza
+
+ B.Palmas
+
+ C.Macapá
+
+ D.Natal
+
+8. qual e a capital de Minas Gerais?
+ A.Rio de Janeiro
+
+ B.Rio Branco
+
+ C.Natal
+
+ D.Belo Horizonte
+
+9. qual e a capital de São Paulo?
+ A.Maceió
+
+ B.Fortaleza
+
+ C.Palmas
+
+ D.São Paulo
+
+10. qual e a capital de Rio de Janeiro?
+ A.Natal
+
+ B.Macapá
+
+ C.Salvador
+
+ D.Rio de Janeiro
+
+11. qual e a capital de Distrito Federal?
+ A.Brasília
+
+ B.Natal
+
+ C.Rio Branco
+
+ D.Vitória
+
+12. qual e a capital de Ceará?
+ A.Vitória
+
+ B.Fortaleza
+
+ C.Palmas
+
+ D.Maceió
+
+13. qual e a capital de Amazonas?
+ A.Manaus
+
+ B.Rio Branco
+
+ C.Natal
+
+ D.Salvador
+

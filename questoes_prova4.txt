@@ -1,0 +1,125 @@
+Name:
+
+Data:
+
+Turma:
+
+                    Prova sobre capitais (prova 4)
+
+1. qual e a capital de Amapá?
+ A.Palmas
+
+ B.Brasília
+
+ C.Macapá
+
+ D.Salvador
+
+2. qual e a capital de Distrito Federal?
+ A.Brasília
+
+ B.São Paulo
+
+ C.Belo Horizonte
+
+ D.Fortaleza
+
+3. qual e a capital de Alagoas?
+ A.Maceió
+
+ B.Manaus
+
+ C.Palmas
+
+ D.Brasília
+
+4. qual e a capital de Minas Gerais?
+ A.Brasília
+
+ B.São Paulo
+
+ C.Maceió
+
+ D.Belo Horizonte
+
+5. qual e a capital de Bahia?
+ A.Palmas
+
+ B.Salvador
+
+ C.Brasília
+
+ D.Belo Horizonte
+
+6. qual e a capital de Espírito Santo?
+ A.Palmas
+
+ B.Maceió
+
+ C.Vitória
+
+ D.Salvador
+
+7. qual e a capital de Amazonas?
+ A.Salvador
+
+ B.Brasília
+
+ C.Manaus
+
+ D.Macapá
+
+8. qual e a capital de Rio de Janeiro?
+ A.Maceió
+
+ B.Rio Branco
+
+ C.Manaus
+
+ D.Rio de Janeiro
+
+9. qual e a capital de Ceará?
+ A.Fortaleza
+
+ B.Palmas
+
+ C.Maceió
+
+ D.Brasília
+
+10. qual e a capital de Rio Grande do Norte?
+ A.Rio Branco
+
+ B.Manaus
+
+ C.Salvador
+
+ D.Natal
+
+11. qual e a capital de São Paulo?
+ A.São Paulo
+
+ B.Macapá
+
+ C.Maceió
+
+ D.Manaus
+
+12. qual e a capital de Acre?
+ A.Fortaleza
+
+ B.Rio Branco
+
+ C.Rio de Janeiro
+
+ D.São Paulo
+
+13. qual e a capital de Tocantins?
+ A.Palmas
+
+ B.Rio Branco
+
+ C.Macapá
+
+ D.Belo Horizonte
+

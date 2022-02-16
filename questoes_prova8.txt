@@ -1,0 +1,125 @@
+Name:
+
+Data:
+
+Turma:
+
+                    Prova sobre capitais (prova 8)
+
+1. qual e a capital de Tocantins?
+ A.Rio de Janeiro
+
+ B.Palmas
+
+ C.Macapá
+
+ D.Natal
+
+2. qual e a capital de Rio de Janeiro?
+ A.Rio de Janeiro
+
+ B.Brasília
+
+ C.Fortaleza
+
+ D.Macapá
+
+3. qual e a capital de Amazonas?
+ A.Salvador
+
+ B.São Paulo
+
+ C.Rio de Janeiro
+
+ D.Manaus
+
+4. qual e a capital de Espírito Santo?
+ A.Manaus
+
+ B.Rio de Janeiro
+
+ C.Macapá
+
+ D.Vitória
+
+5. qual e a capital de Distrito Federal?
+ A.Brasília
+
+ B.Manaus
+
+ C.Salvador
+
+ D.Rio de Janeiro
+
+6. qual e a capital de Alagoas?
+ A.Fortaleza
+
+ B.Manaus
+
+ C.Maceió
+
+ D.Rio de Janeiro
+
+7. qual e a capital de São Paulo?
+ A.Maceió
+
+ B.São Paulo
+
+ C.Manaus
+
+ D.Belo Horizonte
+
+8. qual e a capital de Bahia?
+ A.Salvador
+
+ B.Macapá
+
+ C.São Paulo
+
+ D.Manaus
+
+9. qual e a capital de Minas Gerais?
+ A.Natal
+
+ B.Palmas
+
+ C.Belo Horizonte
+
+ D.Vitória
+
+10. qual e a capital de Amapá?
+ A.Brasília
+
+ B.Manaus
+
+ C.Macapá
+
+ D.Maceió
+
+11. qual e a capital de Acre?
+ A.São Paulo
+
+ B.Natal
+
+ C.Rio Branco
+
+ D.Brasília
+
+12. qual e a capital de Rio Grande do Norte?
+ A.Maceió
+
+ B.Rio de Janeiro
+
+ C.Belo Horizonte
+
+ D.Natal
+
+13. qual e a capital de Ceará?
+ A.Palmas
+
+ B.Salvador
+
+ C.Macapá
+
+ D.Fortaleza
+
